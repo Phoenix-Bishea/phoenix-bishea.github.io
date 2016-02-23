@@ -4,7 +4,7 @@ title: Week Five
 ---
 
 1. **What did you do this past week?** 
-Last week I spent all of Thursday implementing voting. Alone. I am looking forward to doing the next project with a partner. While we may run into some hiccups merging (if we ever work separately), I imagine feature implementation and bug fixes will come more smoothly. Regarding the project, I had trouble using the std::sort function as I was unaware that I needed to overload the assignment/move operator in order for it to work properly. It also took an extraordinary amount of time to write unit tests for all of my functions. In my game tech class I created a design document for the first phase of an overarching project geared at creating a networked multiplayer game pieced together using pre-existing middleware.
+Last week I spent all of Thursday implementing voting. Alone. I am looking forward to doing the next project with a partner. While we may run into some hiccups merging (if we ever work separately) and scheduling, I imagine feature implementation and bug fixes will come more smoothly. Regarding the project, I had trouble using the std::sort function as I was unaware that I needed to overload the assignment/move operator in order for it to work properly. It also took an extraordinary amount of time to write unit tests for all of my functions. In my game tech class I created a design document for the first phase of an overarching project geared at creating a networked multiplayer game pieced together using pre-existing middleware.
 
 2. **What is in your way?** 
 As of right now I have no blockers, aside from writing more cover letters to find an internship for this summer. If anyone has tips or person anecdotes on cover letters, I would love to hear them.
