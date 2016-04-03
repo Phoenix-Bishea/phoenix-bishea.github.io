@@ -4,7 +4,7 @@ title: Week Ten
 ---
 
 1. **What did you do this past week?** 
-This week I completed weekly algorithms assignment and finished the third project, networking, in my game technology class. Additionally, I created all of the issues and setup the repo and my local directory for the Darwin project.
+This week I completed my weekly algorithms assignment and finished the third project, networking, in my game technology class. Additionally, I created all of the issues and setup the repo and my local directory for the Darwin project.
 
 2. **What is in your way?** 
 I haven't been able to invest a ton of time into the Darwin project because of an upcoming algorithms test and the game tech project I just finished.
