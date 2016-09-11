@@ -7,7 +7,7 @@ title: Week Three
 
 2. **What's in your way?**   I have no blockers currently.
 
-3. **What will you do next week?** INext week whenever the project is released I plan to start on it immediately with my partner because I started too late on Collatz and I am extremely busy the week project two is due.
+3. **What will you do next week?** Next week whenever the project is released I plan to start on it immediately with my partner because I started too late on Collatz and I am extremely busy the week project two is due.
  
 **Tip-of-the-week: _The Austin Game Conference is approaching and if you are remotely interested in game development or programming video games you should [register](http://austingamecon.com/)! There will be over 80 speakers covering various topics in game development, numerous networking opportunities, and awesome food. The convention takes place from September 21st - September 22nd and student tickets are $149. For many students this is a high price point, however, it is well worth the investment if you want to pursue a career in game creation. [Click here to see all of companies attending](http://austingamecon.com/wp-content/uploads/2016/08/participatingcompanies-1024px.jpg)._**
 
