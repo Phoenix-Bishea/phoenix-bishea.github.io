@@ -3,7 +3,7 @@ layout: post
 title: Final Week
 ---
 
-1. **What did you do this past week?** Last week my group and I prepared and practiced our final presentation. The presentation covered the work that we had completed during the past six weeks of class for our website [partypeople.me](partypeople.me) (the site will likely be offline by the time you read this). The site focused on upcoming political elections and the candidates involved. Most of the improvements we would have liked to have made were user interface related. There were also a few pieces of missing information (e.g. presidential candidates) that we would have liked to have added (the site only covered state elections). 
+1. **What did you do this past week?** Last week my group and I prepared and practiced our final presentation. The presentation covered the work that we had completed during the past six weeks of class for our website [partypeople.me](http://partypeople.me/) (the site will likely be offline by the time you read this). The site focused on upcoming political elections and the candidates involved. Most of the improvements we would have liked to have made were user interface related. There were also a few pieces of missing information (e.g. presidential candidates) that we would have liked to have added (the site only covered state elections). 
 
 2. **What's in your way?** Nothing! I have a few assignments to finish in other classes and when I finish those I will officially be on break. 
 
